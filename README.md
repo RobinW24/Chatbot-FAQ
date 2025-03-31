@@ -2,9 +2,9 @@
 Développement d'un Chatbot IA basé sur RAG pour une entrerpise de gestion de fonds immobiliers – Intégration d'un modèle GPT-4 avec FAISS et Hugging Face embeddings pour récupérer des informations depuis des documents PDF, avec une interface utilisateur interactive sous Streamlit.
 
 # Améliorations :
-§ Ajouter un module d’apprentissage automatique pour affiner le
+Ajouter un module d’apprentissage automatique pour affiner le
 modèle sur des données internes.
-§ Permettre l’ajout dynamique de nouvelles FAQ et tester un
+Permettre l’ajout dynamique de nouvelles FAQ et tester un
 système de feedback utilisateur.
 
 
